@@ -1,5 +1,5 @@
 # notebooks
-This repository contains notebooks related to the QUIMIA project.
+This repository contains notebooks related to the QUMIA project.
 
 To run these notebooks you will need to build appropriate environments. We have therefore left a few environments around.
 
